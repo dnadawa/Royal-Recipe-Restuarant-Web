@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-inverse{
+    background-color: #5cb85c;
+    color: #2e6da4;
+
+
+}
+
