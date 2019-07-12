@@ -473,5 +473,5 @@ if($_SESSION['adminactive']=="no"||$_SESSION['adminactive']==""){
     <script src="assets/vendor/charts/c3charts/C3chartjs.js"></script>
     <script src="assets/libs/js/dashboard-ecommerce.js"></script>
 </body>
- 
+ <!-->This commit is mine<-->
 </html>
